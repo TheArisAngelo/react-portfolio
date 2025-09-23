@@ -37,42 +37,33 @@ const worktimeline = [
 
 const skills = [
   {
-    name: "Python",
-    value: 90,
-  },
-  {
-    name: "Djano",
-    value: 85,
-  },
-  {
-    name: "Javascript",
-    value: 80,
-  },
-  {
-    name: "React",
+    name: "HTML",
     value: 60,
   },
   {
-    name: "Jquery",
-    value: 85,
+    name: "CSS",
+    value: 80,
+  },
+  {
+    name: "Javascript",
+    value: 50,
+  },
+  {
+    name: "React",
+    value: 50,
   },
 ];
 
 const services = [
   {
-    title: "UI & UX Design",
+    title: "UI & UX",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+      "If you guys want me to help you or collaborate on something, you should E-mail at aris.angelo.don@outlook.com",
   },
   {
-    title: "Mobile Apps",
+    title: "Front-end Projects",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-  },
-  {
-    title: "Wordpress Design",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+      "As a Front-end Developer, I would glady collaborate on projects that excites me and challenges me.",
   },
 ];
 
@@ -153,10 +144,10 @@ const dataportfolio = [
 ];
 
 const contactConfig = {
-  YOUR_EMAIL: "name@domain.com",
-  YOUR_FONE: "(555)123-4567",
+  YOUR_EMAIL: "aris.angelo.don@outlook.com",
+  YOUR_FONE: "09164090416",
   description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    "If you guys want to have a joint project or have a question about Developing, just let me know. Email is provided. Take care as always. ",
   // creat an emailjs.com account
   // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
   YOUR_SERVICE_ID: "service_id",
@@ -165,9 +156,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-  github: "https://github.com",
-  facebook: "https://facebook.com",
-  linkedin: "https://linkedin.com",
+  github: "https://github.com/TheArisAngelo",
+  facebook: "https://web.facebook.com/TheArisAngelo/",
+  linkedin: "https://www.linkedin.com/in/aris-angelo-don-florentino-100599313",
   twitter: "https://twitter.com",
 };
 export {
