@@ -6,15 +6,15 @@ const meta = {
 };
 
 const introdata = {
-  title: "I’m Don Florentino",
+  title: "I’m Don!",
   animated: {
     first: "I love coding",
-    second: "I code cool Websites",
+    second: "I make cool Websites",
     third: "I develop Websites",
   },
   description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-  your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    "I'm a Front-end Developer at Silver Goose 8 International. I'm interested in Web Development, it can be Front-end or even Back-end Development.",
+  your_img_url: "https://images.unsplash.com/photo-1546146830-2cca9512c68e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fGRldmVsb3BlcnxlbnwwfHwwfHx8MA%3D%3D",
 };
 
 const dataabout = {
@@ -159,7 +159,6 @@ const socialprofils = {
   github: "https://github.com/TheArisAngelo",
   facebook: "https://web.facebook.com/TheArisAngelo/",
   linkedin: "https://www.linkedin.com/in/aris-angelo-don-florentino-100599313",
-  twitter: "https://twitter.com",
 };
 export {
   meta,
