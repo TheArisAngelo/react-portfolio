@@ -147,7 +147,7 @@ const contactConfig = {
   YOUR_EMAIL: "aris.angelo.don@outlook.com",
   YOUR_FONE: "09164090416",
   description:
-    "If you guys want to have a joint project or have a question about Developing, just let me know. Email is provided. Take care as always. ",
+    "If you guys want to have a joint project or have a question about Developing, just let me know. Email & Phone number is provided. Take care as always. ",
   // creat an emailjs.com account
   // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
   YOUR_SERVICE_ID: "service_id",
@@ -158,7 +158,7 @@ const contactConfig = {
 const socialprofils = {
   github: "https://github.com/TheArisAngelo",
   facebook: "https://web.facebook.com/TheArisAngelo/",
-  linkedin: "https://www.linkedin.com/in/aris-angelo-don-florentino-100599313",
+  linkedin: "https://www.linkedin.com/in/aris-angelo-don-florentino-100599313", 
 };
 export {
   meta,
