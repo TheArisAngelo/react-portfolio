@@ -52,6 +52,22 @@ const skills = [
     name: "React",
     value: 50,
   },
+  {
+    name: "NPM",
+    value: "40"
+  },
+  {
+    name: "PHP",
+    value: "40"
+  },
+  {
+    name: "CodeIgniter",
+    value: "50"
+  },
+  {
+    name: "Photoshop",
+    value: "40"
+  }
 ];
 
 const services = [
