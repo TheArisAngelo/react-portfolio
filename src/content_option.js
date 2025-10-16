@@ -38,7 +38,7 @@ const worktimeline = [
 const skills = [
   {
     name: "HTML",
-    value: 60,
+    value: 90,
   },
   {
     name: "CSS",
@@ -54,7 +54,7 @@ const skills = [
   },
   {
     name: "NPM",
-    value: "40"
+    value: "50"
   },
   {
     name: "PHP",
